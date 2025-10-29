@@ -9,7 +9,7 @@ LetsConnect is a peer-to-peer video conferencing application built with React an
 - Chat functionality within meeting rooms
 - Mute/unmute microphone
 - Turn on/off camera
-- Screen sharing (planned)
+- Screen sharing (planned!)
 
 ## Technologies Used
 
