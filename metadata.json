@@ -1,5 +1,5 @@
 {
-  "name": "P2P Meet",
+  "name": "Let's Connnect",
   "description": "A serverless WebRTC meeting application that allows users to connect directly for video calls, chat, and file sharing without a backend. Communication is established peer-to-peer using a manual exchange of connection details.",
   "requestFramePermissions": [
     "camera",

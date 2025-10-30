@@ -39,7 +39,7 @@ export const Lobby: React.FC<LobbyProps> = ({ onJoin, initialRoomId }) => {
     <div className="flex items-center justify-center min-h-screen p-4">
       <div className="w-full max-w-md bg-gray-900 rounded-lg shadow-xl p-8 space-y-8">
         <div className="text-center">
-            <h1 className="text-4xl font-bold tracking-tight text-white sm:text-5xl">P2P Meet</h1>
+            <h1 className="text-4xl font-bold tracking-tight text-white sm:text-5xl">Let's Connnect</h1>
             <p className="mt-4 text-lg text-gray-400">Serverless. Private. Peer-to-Peer.</p>
         </div>
 
